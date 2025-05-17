@@ -65,7 +65,7 @@
 "CH105E",
 "CH105F"],
 "childhood_numerical_col" : ["CH13","CH14","CH16","CH21","CH22","CH24","CH38","CH43","CH45"],
-"demographic_columns" : ["RESPID","REGION",
+"demographic_columns" : ["REGION",
 "HHSIZE",
 "RESEX",
 "AGE",
@@ -101,7 +101,7 @@
  "INC_HIAVG",
  "INC_HI"
 ],
-"demographic_numerical_col" : ["HHSIZE","AGE","RESPID"],
+"demographic_numerical_col" : ["HHSIZE","AGE"],
 "dianosis_cloumns" : ["DSM_ADD",
 "DSM_AGO",
 "DSM_AGOWO",
