@@ -28,5 +28,5 @@ def diagnosis():
 def all():
     return childhood() + demographic() + diagnosis()
 
-def all_numeric():
+def numeric_col():
     return data['demographic_numerical_col'] + data['childhood_numerical_col']
